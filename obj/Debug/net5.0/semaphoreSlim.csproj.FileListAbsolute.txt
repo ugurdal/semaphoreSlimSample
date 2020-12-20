@@ -1,0 +1,16 @@
+C:\Users\ugurdal\Downloads\netCoreTests\semaphoreSlim\semaphoreSlim\bin\Debug\net5.0\semaphoreSlim.exe
+C:\Users\ugurdal\Downloads\netCoreTests\semaphoreSlim\semaphoreSlim\bin\Debug\net5.0\semaphoreSlim.deps.json
+C:\Users\ugurdal\Downloads\netCoreTests\semaphoreSlim\semaphoreSlim\bin\Debug\net5.0\semaphoreSlim.runtimeconfig.json
+C:\Users\ugurdal\Downloads\netCoreTests\semaphoreSlim\semaphoreSlim\bin\Debug\net5.0\semaphoreSlim.runtimeconfig.dev.json
+C:\Users\ugurdal\Downloads\netCoreTests\semaphoreSlim\semaphoreSlim\bin\Debug\net5.0\semaphoreSlim.dll
+C:\Users\ugurdal\Downloads\netCoreTests\semaphoreSlim\semaphoreSlim\bin\Debug\net5.0\ref\semaphoreSlim.dll
+C:\Users\ugurdal\Downloads\netCoreTests\semaphoreSlim\semaphoreSlim\bin\Debug\net5.0\semaphoreSlim.pdb
+C:\Users\ugurdal\Downloads\netCoreTests\semaphoreSlim\semaphoreSlim\obj\Debug\net5.0\semaphoreSlim.csprojAssemblyReference.cache
+C:\Users\ugurdal\Downloads\netCoreTests\semaphoreSlim\semaphoreSlim\obj\Debug\net5.0\semaphoreSlim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurdal\Downloads\netCoreTests\semaphoreSlim\semaphoreSlim\obj\Debug\net5.0\semaphoreSlim.AssemblyInfoInputs.cache
+C:\Users\ugurdal\Downloads\netCoreTests\semaphoreSlim\semaphoreSlim\obj\Debug\net5.0\semaphoreSlim.AssemblyInfo.cs
+C:\Users\ugurdal\Downloads\netCoreTests\semaphoreSlim\semaphoreSlim\obj\Debug\net5.0\semaphoreSlim.csproj.CoreCompileInputs.cache
+C:\Users\ugurdal\Downloads\netCoreTests\semaphoreSlim\semaphoreSlim\obj\Debug\net5.0\semaphoreSlim.dll
+C:\Users\ugurdal\Downloads\netCoreTests\semaphoreSlim\semaphoreSlim\obj\Debug\net5.0\ref\semaphoreSlim.dll
+C:\Users\ugurdal\Downloads\netCoreTests\semaphoreSlim\semaphoreSlim\obj\Debug\net5.0\semaphoreSlim.pdb
+C:\Users\ugurdal\Downloads\netCoreTests\semaphoreSlim\semaphoreSlim\obj\Debug\net5.0\semaphoreSlim.genruntimeconfig.cache
